@@ -1,8 +1,9 @@
 /*
  * File: 4-puts.c
  * Auth: Mubarek MUlugeta justmub42@gmail.com>
+ *
+ *
  */
-
 
 #include <stdio.h>
 
@@ -12,10 +13,10 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	
+
 	return (0);
 }
+
